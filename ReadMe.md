@@ -13,5 +13,13 @@
     item.duration
     item.notes
     item._confidence
+
+## Installing
+
+`npm install`
+
+http://stackoverflow.com/questions/4871932/using-npm-to-install-or-update-required-packages-just-like-bundler-for-rubygems
     
 ## Running the Tests
+
+
