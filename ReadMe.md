@@ -22,3 +22,4 @@ http://stackoverflow.com/questions/4871932/using-npm-to-install-or-update-requir
     
 ## Running the Tests
 
+`node_modules/buster/bin/buster-test`
