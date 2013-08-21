@@ -1,0 +1,13 @@
+{ 
+  "name": "nl-date", 
+  "version": "1.0.0", 
+  "dependencies": 
+  {
+    "buster" : "0.6.12"
+  },
+  "description": "Natural Language calendar item parser",
+  "homepage": "https://github.com/banderson623/nl-date",
+  "author": {
+    "name": "Brian Anderson"
+  },
+}
